@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Блок схемы/1.0.0": {
+        "runtime": {
+          "Блок схемы.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Блок схемы/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
