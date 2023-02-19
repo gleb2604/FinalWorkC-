@@ -22,3 +22,12 @@ void SearchSmallElement()
     for(int i = 0; i < array.Length; i++)
     {
     if (array[i].Length <= 3)
+    {
+            newArray[tIndex] = array[i];
+            tIndex++;
+        }
+    }
+    Console.WriteLine(string.Join(", ", newArray));
+}
+
+SearchSmallElement();
